@@ -15,5 +15,6 @@ To install through VSCode:
    * Run "flutter run" (if you have installed the Flutter Extension, open main.dart then press the Start Debugging button).
 
 Or if you want to install directly:
+ * Open this link: https://drive.google.com/drive/folders/1D2E1igce1i_C7aqkk24CvckekbjWCnPQ?usp=sharing
  * Download chat_app.apk and install on your phone.
 
