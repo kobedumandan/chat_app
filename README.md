@@ -9,5 +9,5 @@ To install:
   * Either run the code through VSCode or install the .apk file
 
 To install through VSCode:
-  
+  * Download the files by pressing Code -> Download
 
